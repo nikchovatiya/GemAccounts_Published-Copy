@@ -1,0 +1,851 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GemAccounts
+</name>
+</assembly>
+<members>
+<member name="T:GemAccounts.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:GemAccounts.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:GemAccounts.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Branch_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Clarity_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Color_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Company_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Cut_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Flo_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Grader_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_GradingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Group_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Item_Type_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.DIa_Lab_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Ledger_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Lot_Status_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Main_Account_Group_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Main_Packet_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_MainStockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Polish_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Process_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_PurchaseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SerieDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Shape_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Symm_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Terms_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_TransactionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_UpdateRapaportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_User_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Culet_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Girdle_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_GirdleCondition_MasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_General_InformationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_LayoutsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SalesAdditionalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SalesBrokerageDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SalesDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SalesMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Branch_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Clarity_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Color_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Company_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Cut_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Flo_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Grader_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_GradingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Group_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Item_Type_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.DIa_Lab_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Ledger_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Lot_Status_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Main_Account_Group_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Main_Packet_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_MainStockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Polish_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Process_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_PurchaseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SerieRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Shape_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Symm_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Terms_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_TransactionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_UpdateRapaportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_User_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Culet_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Girdle_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_GirdleCondition_MasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_General_InformationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_LayoutsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SalesAdditionalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SalesBrokerageRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SalesDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SalesMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Branch_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Clarity_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Color_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Company_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Cut_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Flo_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Grader_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_GradingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Group_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Item_Type_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.DIa_Lab_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Ledger_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Lot_Status_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Main_Account_Group_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Main_Packet_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_MainStockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Polish_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Process_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_PurchaseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SerieRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Shape_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Symm_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Terms_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_TransactionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_UpdateRapaportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_User_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Culet_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_Girdle_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_GirdleCondition_MasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_General_InformationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_LayoutsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SalesAdditionalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SalesBrokerageRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SalesDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDataset.Dia_SalesMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Branch_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Clarity_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Color_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Company_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Cut_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Flo_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Grader_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_GradingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Group_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Item_Type_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.DIa_Lab_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Ledger_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Lot_Status_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Main_Account_Group_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Main_Packet_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_MainStockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Polish_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Process_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_PurchaseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_SerieTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Shape_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Symm_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Terms_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_TransactionsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_UpdateRapaportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_User_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Culet_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_Girdle_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_GirdleCondition_MasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_General_InformationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_LayoutsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_SalesAdditionalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_SalesBrokerageTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_SalesDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.Dia_SalesMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:GemAccounts.Dia_MasterDatasetTableAdapters.TableAdapterManager.UpdateUpdatedRows(GemAccounts.Dia_MasterDataset,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:GemAccounts.Dia_MasterDatasetTableAdapters.TableAdapterManager.UpdateInsertedRows(GemAccounts.Dia_MasterDataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:GemAccounts.Dia_MasterDatasetTableAdapters.TableAdapterManager.UpdateDeletedRows(GemAccounts.Dia_MasterDataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:GemAccounts.Dia_MasterDatasetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:GemAccounts.Dia_MasterDatasetTableAdapters.TableAdapterManager.UpdateAll(GemAccounts.Dia_MasterDataset)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:GemAccounts.Dia_MasterDatasetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.TblBarcodeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.TempTransactionIDDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.TblPrintInvoiceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.SerieComboDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.Serie_ReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.TblBarcodeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.TempTransactionIDRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.TblPrintInvoiceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.SerieComboRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.Serie_ReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.TblBarcodeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.TempTransactionIDRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.TblPrintInvoiceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.SerieComboRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GemAccounts.TmpData.Serie_ReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

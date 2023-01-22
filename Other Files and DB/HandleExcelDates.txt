@@ -1,0 +1,16 @@
+    Private Function HandleExcelDate(ByVal dt As String) As DateTime
+        dt = dt?.Trim()
+        Dim format As String = "dd/MM/yyyy"
+        Dim result As Double = Nothing
+        Dim result2 As Date = Nothing
+        If Double.TryParse(dt, result) Then
+            Return Date.FromOADate(result)
+        ElseIf Date.TryParseExact(dt, format, CultureInfo.InvariantCulture, DateTimeStyles.None, result2) Then
+            Return result2
+        ElseIf Date.TryParse(dt, result2) Then
+            Return result2
+        Else
+            MsgBox(String.Format("The parameter '{0}' with value '{1}', was not in the correct format.", "Date", If(dt, String.Empty)))
+            Return Nothing
+        End If
+    End Function
